@@ -1,0 +1,12 @@
+
+Lista de Atividades do Bootcamp Amdocs Java Developer            
+
+1. Boas Vindas ao Bootcamp Amdocs Java Developer
+2. Bem-vindo à DIO                               
+3. Mentoria #1: Aula Inaugural
+4. Lógica de Programação Essencial
+5. Aprenda o que são Estruturas de Dados e Algoritmos
+5. Introdução ao Git e ao Github
+6. Projetos ágeis com SCRUM
+7. Criando seu Primeiro Repositório no Github Para Compartilhar seu Progresso
+8.
